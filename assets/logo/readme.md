@@ -1,6 +1,6 @@
 ### Obscuro Logos
 
-add links
+Obscuro logos are linked to this area from the GitHub wiki
 
 ### Obscuro Colour Palette
 | COLOUR | USAGE              | HEX     | RGB         |
